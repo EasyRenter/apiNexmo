@@ -1,7 +1,7 @@
 # apiNexmo
 Nexmo API Call PHP Curl
 
-I share to function:
+I share 2 function:
 
 1/ sendSms() is the function i use to call Nexmo API and send a SMS - you need to use it 5 variables:
 - the phone number (internation version)
