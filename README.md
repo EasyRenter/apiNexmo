@@ -9,6 +9,6 @@ I share 2 function:
 - the SMS message (a string with a limited number of caracter - refer to Nexmo doc for more info)
 - the Nexmo key and secret key
 
-2/ phonenumberConvertion() is the function which convert french number to international number. Is also clean the string number from unnecessary caracter.
+2/ phonenumberConvertion() is the function which convert french number to international number. It also clean the string number from unnecessary caracter.
 
 I hope it will help others. And do not hesitate to propose improvements ;)
